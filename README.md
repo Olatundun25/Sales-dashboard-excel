@@ -23,5 +23,8 @@ This Excel dashboard analyzes business performance across products, customer seg
 ## Date Range
 August 2020 – March 2025
 
+![Dashboard Preview](Sales%20Dashboard.png)
+
+
 ## Author
 Adeyemo Taiwo
